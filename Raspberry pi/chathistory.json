@@ -1,0 +1,442 @@
+[
+    {
+        "cuoc_tro_chuyen": "Chatbot",
+        "lich_su": [
+            {
+                "thoi_gian": "2024-05-12 10:30:00",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "hello"
+            },
+            {
+                "thoi_gian": "2024-07-03 13:18:54",
+                "nguoi_gui": "Chatbot",
+                "noi_dung": "Hiện tại không phải là thời điểm thích hợp để hỏi về thời gian vì tôi không thể truy cập vào hệ thống thời gian thực. Bạn có thể xem giờ hiện tại trên điện thoại hoặc thiết bị có thể kết nối internet. Nếu bạn cần sự hỗ trợ khác, hãy cho tôi biết nhé!"
+            },
+            {
+                "thoi_gian": "2024-07-03 16:20:08",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "Xin chào"
+            },
+            {
+                "thoi_gian": "2024-07-03 16:20:13",
+                "nguoi_gui": "Chatbot",
+                "noi_dung": "Chào bạn, có điều gì mình có thể giúp đỡ không?"
+            },
+            {
+                "thoi_gian": "2024-07-03 16:20:36",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "Xin chào"
+            },
+            {
+                "thoi_gian": "2024-07-03 16:20:40",
+                "nguoi_gui": "Chatbot",
+                "noi_dung": "Chào bạn, có điều gì mình có thể giúp đỡ không?"
+            },
+            {
+                "thoi_gian": "2024-07-03 18:27:40",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "Mấy giờ rồi"
+            },
+            {
+                "thoi_gian": "2024-07-03 18:28:08",
+                "nguoi_gui": "Chatbot",
+                "noi_dung": "Xin lỗi, nhưng tôi không thể cung cấp thông tin về thời gian vì tôi không có khả năng truy cập vào hệ thống thời gian hiện tại. Bạn có thể kiểm tra giờ trên điện thoại hoặc đồng hồ của mình được không? Nếu bạn cần hỗ trợ về vấn đề nào khác, vui lòng cho tôi biết!"
+            },
+            {
+                "thoi_gian": "2024-07-03 18:28:13",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "Mấy giờ rồi"
+            },
+            {
+                "thoi_gian": "2024-07-03 18:28:17",
+                "nguoi_gui": "Chatbot",
+                "noi_dung": "Xin lỗi, tôi không thể cung cấp thông tin về thời gian vì đó là thông tin cụ thể và phụ thuộc vào múi giờ của từng khu vực. Bạn có thể kiểm tra giờ hiện tại trên điện thoại hoặc thiết bị có sẵn đồng hồ để biết được thời gian hiện tại. Nếu bạn cần sự trợ giúp với vấn đề nào khác, hãy cho tôi biết nhé!"
+            },
+            {
+                "thoi_gian": "2024-07-03 20:58:40",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "alo Bây giờ là mấy giờ"
+            },
+            {
+                "thoi_gian": "2024-07-03 20:59:00",
+                "nguoi_gui": "Chatbot",
+                "noi_dung": "Chào bạn, hiện tại không phải thời gian thực nên mình không thể cung cấp thông tin về giờ hiện tại được. Bạn có thể kiểm tra giờ bằng cách xem trên điện thoại hoặc đồng hồ của mình nhé! Nếu có thêm câu hỏi hoặc cần trợ giúp gì khác, hãy thông báo cho mình nhé!"
+            },
+            {
+                "thoi_gian": "2024-07-04 08:53:15",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "Xin chào"
+            },
+            {
+                "thoi_gian": "2024-07-04 08:53:47",
+                "nguoi_gui": "Chatbot",
+                "noi_dung": "Chào bạn! Có điều gì mình có thể giúp bạn không?"
+            },
+            {
+                "thoi_gian": "2024-07-04 08:55:29",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "Bạn có khỏe không"
+            },
+            {
+                "thoi_gian": "2024-07-04 08:55:32",
+                "nguoi_gui": "Chatbot",
+                "noi_dung": "Cảm ơn bạn đã quan tâm. Dĩ nhiên là mình không có cảm giác hay cảm xúc như con người nên không thể bị ốm đau được. Mình luôn sẵn sàng hỗ trợ bạn mọi lúc đấy. Còn bạn có khỏe không?"
+            },
+            {
+                "thoi_gian": "2024-07-04 09:16:18",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "Xin chào"
+            },
+            {
+                "thoi_gian": "2024-07-04 09:16:51",
+                "nguoi_gui": "Chatbot",
+                "noi_dung": "Chào bạn, có điều gì mình có thể giúp bạn hôm nay không?"
+            },
+            {
+                "thoi_gian": "2024-07-04 09:21:52",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "Hello"
+            },
+            {
+                "thoi_gian": "2024-07-04 09:25:47",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "con chó có mấy chân"
+            },
+            {
+                "thoi_gian": "2024-07-04 09:26:16",
+                "nguoi_gui": "Chatbot",
+                "noi_dung": "Con chó có 4 chân. Chân của chó giúp chúng di chuyển, chạy nhanh và thậm chí nhảy cao. Chân chó cũng giúp chúng cảm nhận và khám phá thế giới xung quanh mình. Chúng cũng được sử dụng để bảo vệ chủ nhân và đánh dấu lãnh thổ."
+            }
+        ]
+    },
+    {
+        "cuoc_tro_chuyen": "6684d388204425002149862d",
+        "lich_su": [
+            {
+                "thoi_gian": "2024-07-03 13:45:30",
+                "nguoi_gui": "Ông",
+                "noi_dung": "ok"
+            },
+            {
+                "thoi_gian": "2024-07-03 13:45:46",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "Xin chào"
+            },
+            {
+                "thoi_gian": "2024-07-03 20:42:53",
+                "nguoi_gui": "Ông",
+                "noi_dung": "oke"
+            },
+            {
+                "thoi_gian": "2024-07-03 20:50:19",
+                "nguoi_gui": "Ông",
+                "noi_dung": "Chào cháu"
+            },
+            {
+                "thoi_gian": "2024-07-03 20:59:46",
+                "nguoi_gui": "Ông",
+                "noi_dung": "hello"
+            },
+            {
+                "thoi_gian": "2024-07-03 21:15:09",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "Hello Hello"
+            }
+        ]
+    },
+    {
+        "cuoc_tro_chuyen": null,
+        "lich_su": [
+            {
+                "thoi_gian": "2024-07-03 14:25:26",
+                "nguoi_gui": null,
+                "noi_dung": "helllo"
+            }
+        ]
+    },
+    {
+        "cuoc_tro_chuyen": "6684fccaffdb8a6543b78125",
+        "lich_su": [
+            {
+                "thoi_gian": "2024-07-03 14:25:45",
+                "nguoi_gui": "Vũ Anh",
+                "noi_dung": "mấy giờ rồi"
+            },
+            {
+                "thoi_gian": "2024-07-03 14:26:13",
+                "nguoi_gui": "Vũ Anh",
+                "noi_dung": "hôm nay ngày bao nhiêu"
+            },
+            {
+                "thoi_gian": "2024-07-03 14:28:36",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "Mấy giờ rồi"
+            },
+            {
+                "thoi_gian": "2024-07-03 14:29:25",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "Xin chào"
+            },
+            {
+                "thoi_gian": "2024-07-03 14:29:32",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "Mấy giờ rồi"
+            },
+            {
+                "thoi_gian": "2024-07-03 14:29:40",
+                "nguoi_gui": "Vũ Anh",
+                "noi_dung": "helo"
+            },
+            {
+                "thoi_gian": "2024-07-03 14:29:56",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "Mấy giờ rồi"
+            },
+            {
+                "thoi_gian": "2024-07-03 14:53:29",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "Xin chào"
+            },
+            {
+                "thoi_gian": "2024-07-03 14:54:04",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "Xin chào Xin chào"
+            },
+            {
+                "thoi_gian": "2024-07-03 14:55:24",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "Mấy giờ rồi"
+            },
+            {
+                "thoi_gian": "2024-07-03 15:06:51",
+                "nguoi_gui": "Vũ Anh",
+                "noi_dung": "aaaa"
+            },
+            {
+                "thoi_gian": "2024-07-03 15:30:33",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "Mấy giờ rồi xin chào alo"
+            },
+            {
+                "thoi_gian": "2024-07-03 16:10:22",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "Xin chào"
+            },
+            {
+                "thoi_gian": "2024-07-03 16:14:36",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "Hello"
+            },
+            {
+                "thoi_gian": "2024-07-03 16:25:23",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "Xin chào"
+            },
+            {
+                "thoi_gian": "2024-07-03 16:26:25",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "Xin chào"
+            },
+            {
+                "thoi_gian": "2024-07-03 16:26:33",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "Mấy giờ rồi"
+            },
+            {
+                "thoi_gian": "2024-07-03 16:26:56",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "Xin chào"
+            },
+            {
+                "thoi_gian": "2024-07-03 16:28:31",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "Xin chào"
+            },
+            {
+                "thoi_gian": "2024-07-03 16:46:13",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "Xin chào"
+            },
+            {
+                "thoi_gian": "2024-07-03 16:46:46",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "Xin chào"
+            },
+            {
+                "thoi_gian": "2024-07-03 17:06:06",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "Xin chào"
+            },
+            {
+                "thoi_gian": "2024-07-03 17:07:10",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "Xin chào"
+            },
+            {
+                "thoi_gian": "2024-07-03 17:07:45",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "Xin chào"
+            },
+            {
+                "thoi_gian": "2024-07-03 17:09:01",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "Xin chào"
+            },
+            {
+                "thoi_gian": "2024-07-03 17:21:17",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "hello"
+            },
+            {
+                "thoi_gian": "2024-07-03 17:22:56",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "hello"
+            },
+            {
+                "thoi_gian": "2024-07-03 17:23:32",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "hello"
+            },
+            {
+                "thoi_gian": "2024-07-03 17:23:54",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "hello"
+            },
+            {
+                "thoi_gian": "2024-07-03 17:24:59",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "hello"
+            },
+            {
+                "thoi_gian": "2024-07-03 17:27:48",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "hello"
+            },
+            {
+                "thoi_gian": "2024-07-03 17:29:18",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "hello"
+            },
+            {
+                "thoi_gian": "2024-07-03 17:42:13",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "hello"
+            },
+            {
+                "thoi_gian": "2024-07-03 17:44:02",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "hello"
+            },
+            {
+                "thoi_gian": "2024-07-03 17:47:30",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "hello"
+            },
+            {
+                "thoi_gian": "2024-07-03 17:48:12",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "hello"
+            },
+            {
+                "thoi_gian": "2024-07-03 17:49:22",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "hello"
+            },
+            {
+                "thoi_gian": "2024-07-03 17:50:11",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "hello"
+            },
+            {
+                "thoi_gian": "2024-07-03 17:51:06",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "hello"
+            },
+            {
+                "thoi_gian": "2024-07-03 17:51:38",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "hello"
+            },
+            {
+                "thoi_gian": "2024-07-03 18:15:39",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "Xin chào"
+            },
+            {
+                "thoi_gian": "2024-07-03 18:16:29",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "Xin chào"
+            },
+            {
+                "thoi_gian": "2024-07-03 18:17:04",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "Xin chào"
+            },
+            {
+                "thoi_gian": "2024-07-03 18:18:20",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "Xin chào"
+            },
+            {
+                "thoi_gian": "2024-07-03 18:27:12",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "Xin chào"
+            }
+        ]
+    },
+    {
+        "cuoc_tro_chuyen": "66843c4dfce3490dfba38856",
+        "lich_su": [
+            {
+                "thoi_gian": "2024-07-03 15:06:31",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "Hello"
+            },
+            {
+                "thoi_gian": "2024-07-03 15:06:40",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "Mấy giờ rồi"
+            },
+            {
+                "thoi_gian": "2024-07-03 15:30:02",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "Xin chào"
+            },
+            {
+                "thoi_gian": "2024-07-03 15:57:57",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "Hello"
+            },
+            {
+                "thoi_gian": "2024-07-03 15:59:22",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "Xin chào"
+            },
+            {
+                "thoi_gian": "2024-07-03 16:13:52",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "Hello"
+            },
+            {
+                "thoi_gian": "2024-07-03 16:44:54",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "Hello"
+            },
+            {
+                "thoi_gian": "2024-07-03 16:57:12",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "Xin chào"
+            },
+            {
+                "thoi_gian": "2024-07-03 17:03:31",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "xin chào alo mẹ làm gì vậy"
+            },
+            {
+                "thoi_gian": "2024-07-03 17:46:08",
+                "nguoi_gui": "Tôi",
+                "noi_dung": "hello"
+            }
+        ]
+    }
+]
